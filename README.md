@@ -22,6 +22,10 @@ Este software é fornecido "como está", sem qualquer garantia. O uso deste scri
   - **RAM:** Ativa compressão dinâmica para reduzir o uso do arquivo de paginação (Pagefile).
   - **Jogos (XPRESS8K):** Compacta pastas no HD/SSD reduzindo o tamanho em disco sem causar perda de FPS, usando compressão nativa do Windows.
 
+## 💡 Nota sobre Reinicialização
+* **🔄 REQUER REINICIAR:** Opções **[1]**, **[2]** e **[5]** alteram chaves profundas do Registro do Windows. O sistema precisa ser reiniciado para que essas otimizações entrem em ação.
+* **⚡ APLICAÇÃO IMEDIATA:** Opções **[3]**, **[4]** e o módulo de compressão **[6]** (tanto RAM quanto Pastas) funcionam em tempo real. Não precisa reiniciar!
+
 ## 🚀 Como usar
 1. Baixe o arquivo `.bat` mais recente na aba **Releases**.
 2. Clique com o botão direito e selecione **"Executar como Administrador"**.
@@ -49,6 +53,10 @@ This software is provided "as is", without warranty of any kind. The use of this
   - **RAM Compression:** Enables dynamic Windows memory compression to reduce Pagefile usage.
   - **Game Folder Compression:** Compresses game folders directly on your HDD/SSD using the native **XPRESS8K** algorithm (Xbox standard). Saves space with ZERO FPS loss or stuttering.
   - **Decompression:** Reverts folders back to their raw size.
+
+## 💡 Reboot Notice
+* **🔄 REBOOT REQUIRED:** Options **[1]**, **[2]**, and **[5]** modify deep Windows Registry keys. You must restart your PC for these performance tweaks to take effect.
+* **⚡ IMMEDIATE APPLICATION:** Options **[3]**, **[4]**, and the Advanced Compression Module **[6]** (both RAM and Folders) apply instantly in real-time. No reboot needed!
 
 ## 🚀 How to use
 1. Download the latest `.bat` file from the **Releases** tab on the right side of the screen.
