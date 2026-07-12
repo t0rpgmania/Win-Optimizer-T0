@@ -62,3 +62,14 @@ This software is provided "as is", without warranty of any kind. The use of this
 1. Download the latest `.bat` file from the **Releases** tab on the right side of the screen.
 2. Right-click the file and select **"Run as Administrator"**.
 3. Follow the menu instructions (use the translation above as a guide).
+
+4. > [!WARNING]
+> ### ⚠️ RECOMENDAÇÕES IMPORTANTES DE USO (LEIA ANTES DE USAR)
+>
+> O **Módulo de Compressão de Pastas (XPRESS8K)** foi exaustivamente testado em cenários reais. Para garantir a melhor performance e estabilidade dos seus jogos, siga as diretrizes abaixo:
+>
+> * 🚫 **NÃO RECOMENDADO PARA:** Jogos modernos de mundo aberto, sobrevivência ou de alta velocidade (Ex: *Ghost Recon Wildlands/Breakpoint*, *Sonic Frontiers*, *Palworld*, *Cyberpunk 2077*). Esses jogos utilizam engines com *Asset Streaming* agressivo e a descompactação em tempo real pode causar engasgos (*stuttering*) ou congelamentos nas telas de carregamento.
+>
+> * 🟢 **ALTAMENTE RECOMENDADO PARA:** Jogos lineares, jogos de luta/esportes em arenas (Ex: *Mortal Kombat*, *EA FC*), jogos competitivos mais leves ou jogos antigos que ocupam muito espaço desnecessário no HD/SSD. Nesses casos, a compressão economiza gigabytes preciosos sem afetar o desempenho.
+>
+> * 🔧 **BOTÃO DE PÂNICO:** Se você compactou um jogo e ele apresentou instabilidade, basta abrir o otimizador, ir no **Módulo de Compressão** e selecionar a **Opção [4] Descompactar Pasta** para reverter o jogo instantaneamente ao seu estado bruto original.
