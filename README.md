@@ -73,3 +73,14 @@ This software is provided "as is", without warranty of any kind. The use of this
 > * 🟢 **ALTAMENTE RECOMENDADO PARA:** Jogos lineares, jogos de luta/esportes em arenas (Ex: *Mortal Kombat*, *EA FC*), jogos competitivos mais leves ou jogos antigos que ocupam muito espaço desnecessário no HD/SSD. Nesses casos, a compressão economiza gigabytes preciosos sem afetar o desempenho.
 >
 > * 🔧 **BOTÃO DE PÂNICO:** Se você compactou um jogo e ele apresentou instabilidade, basta abrir o otimizador, ir no **Módulo de Compressão** e selecionar a **Opção [4] Descompactar Pasta** para reverter o jogo instantaneamente ao seu estado bruto original.
+>
+> * > [!WARNING]
+> ### ⚠️ IMPORTANT USAGE RECOMMENDATIONS (READ BEFORE USING)
+>
+> The **Folder Compression Module (XPRESS8K)** has been thoroughly tested in real-world scenarios. To ensure the best performance and stability for your games, please follow these guidelines:
+>
+> * 🚫 **NOT RECOMMENDED FOR:** Modern open-world, survival, or fast-paced games (e.g., *Ghost Recon Wildlands/Breakpoint*, *Sonic Frontiers*, *Palworld*, *Cyberpunk 2077*). These games rely on aggressive live *Asset Streaming*, and real-time decompression can cause micro-stutters (*stuttering*) or freezes during loading screens.
+>
+> * 🟢 **HIGHLY RECOMMENDED FOR:** Linear games, fighting/sports arena games (e.g., *Mortal Kombat*, *EA FC*), lighter competitive titles, or older games that take up massive amounts of unoptimized disk space. In these cases, compression saves precious gigabytes without affecting gameplay.
+>
+> * 🔧 **PANIC BUTTON:** If you compress a game and experience any instability, simply open the optimizer, go to the **Compression Module**, and select **Option [4] Decompress Game Folder** to instantly revert the files back to their original raw state.
